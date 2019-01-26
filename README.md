@@ -4,4 +4,4 @@ This repo is for the final project of Fall 2018 EECS 6690 Statistical Learning c
 
 reproduction.r is the code for the paper reduction.<br />
 Code in folder Attribute1->9 corresponds to the Cost-sensitive Subset Selection experiments in the report<br />
-Code in folder train_alldata corresponds to the fitting ability experiments in the report.
+Code in folder all methods corresponds to the fitting ability experiments in the report.
